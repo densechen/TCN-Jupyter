@@ -1,5 +1,6 @@
 # Sequence Modeling Benchmarks and Temporal Convolutional Networks (TCN)
 
+**This repo rewrites [TCN](https://github.com/locuslab/TCN) with Jupyter.**
 
 This repository contains the experiments done in the work [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271) by Shaojie Bai, J. Zico Kolter and Vladlen Koltun.
 
